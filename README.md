@@ -7,8 +7,17 @@ This repository contains my LeetCode journey, featuring solutions to coding chal
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
