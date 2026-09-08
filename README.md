@@ -28,8 +28,17 @@ This repository contains my LeetCode journey, featuring solutions to coding chal
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
