@@ -24,4 +24,12 @@ This repository contains my LeetCode journey, featuring solutions to coding chal
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/abdullahvallanchira762-cyber/LeetCode-s/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
